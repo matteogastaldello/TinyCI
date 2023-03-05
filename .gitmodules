@@ -4,3 +4,6 @@
 [submodule "web-platform"]
 	path = web-platform
 	url = git@github.com:NatFederico/dashboard.git
+[submodule "msp432-code"]
+	path = msp432-code
+	url = git@github.com:matteogastaldello/msp432-endpoint.git
