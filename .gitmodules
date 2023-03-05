@@ -1,0 +1,6 @@
+[submodule "esp32-code"]
+	path = esp32-code
+	url = git@github.com:matteogastaldello/esp32-HomeBridge.git
+[submodule "web-platform"]
+	path = web-platform
+	url = git@github.com:NatFederico/dashboard.git
