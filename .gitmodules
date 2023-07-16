@@ -1,9 +1,9 @@
-[submodule "esp32-code"]
-	path = esp32-code
-	url = git@github.com:matteogastaldello/esp32-HomeBridge.git
-[submodule "web-platform"]
-	path = web-platform
-	url = git@github.com:NatFederico/dashboard.git
 [submodule "msp432-code"]
 	path = msp432-code
 	url = git@github.com:matteogastaldello/msp432-endpoint.git
+[submodule "TinyCI-Dashboard"]
+	path = TinyCI-Dashboard
+	url = git@github.com:NatFederico/TinyCI-Dashboard.git
+[submodule "TinyCI-HUB"]
+	path = TinyCI-HUB
+	url = git@github.com:matteogastaldello/TinyCI-HUB.git
