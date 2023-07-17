@@ -48,7 +48,7 @@ Repos:
  
 Presentation: [link to powerpoint](https://docs.google.com/presentation/d/1VxE23nRNRouq7jqaF9O26tV4Py5EXvLFKnfno5ubUJo/edit?usp=sharing)
 
-Video Overview: [link to video - NOLINK]()
+Video Overview: [link to video](https://youtu.be/wujiSl2Amtc)
 
 
 
