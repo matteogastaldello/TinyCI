@@ -1,10 +1,12 @@
 # TinyCI
 ## Table of contents
 - [TinyCI](#tinyci)
+  * [Table of contents](#table-of-contents)
   * [Project Idea](#project-idea)
   * [Brief Infrastructure](#brief-infrastructure)
   * [Project Layout](#project-layout)
   * [Main Strenghts](#main-strenghts)
+  * [Setting up the infrastructure](#setting-up-the-infrastructure)
 - [Links to Other Resources](#links-to-other-resources)
   * [Authors](#authors)
   * [Acknowledgments](#acknowledgments)
