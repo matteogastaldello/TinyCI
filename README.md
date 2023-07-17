@@ -62,7 +62,7 @@ Matteo Sabella
 ## Acknowledgments
 
 <a href="https://www.unitn.it/">
-  <img src="/assets/logo_unitn_it.png" width="300px">
+  <img src="https://github.com/matteogastaldello/TinyCI/assets/95225168/6a5678f0-87e0-4cea-97ef-6f7c31bf0f95" width="300px">
 </a>
 
 
