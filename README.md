@@ -36,6 +36,10 @@ Our project allows the device manufacturer of IoT devices to support the communi
 - Neither the purpose, nor the device matter as long as few communication rules are respected to become part of this IoT communication system. 
 - We also want to underline how setting it up and running the whole system is almost plug and play and requires little to no technical knowledge from the user.
 
+## Setting up the infrastructure
+To run the project you both need to configure [TinyCI-HUB](https://github.com/matteogastaldello/TinyCI-HUB) and [TinyCI-Dashboard](https://github.com/NatFederico/TinyCI-Dashboard) and an edge device like [MSP432-EdgeDevice](https://github.com/matteogastaldello/msp432-endpoint) or [TinyCI-PCService](https://github.com/matteogastaldello/TinyCI-PCService/).
+Please refer to [TinyCI-HUB](https://github.com/matteogastaldello/TinyCI-HUB) and to [TinyCI-Dashboard](https://github.com/NatFederico/TinyCI-Dashboard) for the configuration.
+
 # Links to Other Resources
 
 Repos:
