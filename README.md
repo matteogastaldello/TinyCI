@@ -28,7 +28,7 @@ Schema of TinyCI
 
 Our project allows the device manufacturer of IoT devices to support the communication with TinyCI components, leaving the end user with a "plug and play experience".
 
-- The manufacter just need to specify IoT device capabilities as described in [TinyCI-Dashboard](https://github.com/NatFederico/TinyCI-Dashboard) and support the communication from the Edge Device to the TiniCI-HUB as described in [Tiny-CI-PCService - NOLINK]().
+- The manufacter just need to specify IoT device capabilities as described in [TinyCI-Dashboard](https://github.com/NatFederico/TinyCI-Dashboard) and support the communication from the Edge Device to the TiniCI-HUB as described in [TinyCI-PCService](https://github.com/matteogastaldello/TinyCI-PCService/).
 
 - On the other hand, the end user just needs to put the third-party edge device into pairing mode (as described by the manufacturer), plug the TinyCI-HUB into power, and set it to discovery mode (from TinyCI-Dashboard) and let the TinyCI-HUB do the hard work. After that, the user can interact from the TinyCI-Dashboard with the newly registered device (e.g., getting sensors, setting modes...).
 
@@ -44,10 +44,11 @@ Repos:
   -  [TinyCI-Dashboard](https://github.com/NatFederico/TinyCI-Dashboard)
 - Edge Devices
   - [MSP432-EdgeDevice](https://github.com/matteogastaldello/msp432-endpoint)
-  - [Tiny-CI-PCService - NOLINK]()
+  - [TinyCI-PCService](https://github.com/matteogastaldello/TinyCI-PCService/)
  
-Presentation: [link to powerpoint - NOLINK]()
-Video Overview: [link to presentation - NOLINK]()
+Presentation: [link to powerpoint](https://docs.google.com/presentation/d/1VxE23nRNRouq7jqaF9O26tV4Py5EXvLFKnfno5ubUJo/edit?usp=sharing)
+
+Video Overview: [link to video](https://youtu.be/wujiSl2Amtc)
 
 
 
