@@ -7,3 +7,6 @@
 [submodule "TinyCI-HUB"]
 	path = TinyCI-HUB
 	url = git@github.com:matteogastaldello/TinyCI-HUB.git
+[submodule "TinyCI-PCService"]
+	path = TinyCI-PCService
+	url = git@github.com:matteogastaldello/TinyCI-PCService.git
